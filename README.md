@@ -1,11 +1,15 @@
-This repo holds the codes of our paper:
+## 📖 Wavelet-based Bi-dimensional Aggregation Network for SAR Image Change Detection (IEEE GRSL 2024)
 
-Wavelet-based Bi-dimensional Aggregation Network for SAR Image Change Detection
+[![ARXIV](https://img.shields.io/badge/Paper-ARIXV-blue)]()
+[![IEEE](https://img.shields.io/badge/Paper-IEEE%20GRSL-blue)]()
 
-submitted to IEEE Geoscience and Remote Sensing Letters.
+This code is for our paper "Wavelet-based Bi-dimensional Aggregation Network for SAR Image Change Detection (IEEE GRSL 2024)".
 
-The codes and data will be released soon.
+🔥 We hope WBANet is helpful for your work. Thanks a lot for your attention.🔥
 
-If you have any queries, please do not hesitate to contact me ( gaofeng@ouc.edu.cn ).
+If you have any questions, please contact us. Email: xiejiangway@163.com, gaofeng@ouc.edu.cn
 
-More codes and data can be obtained from http://feng-gao.cn
+## 🎯 Dataset
+https://github.com/summitgao/SAR_changed_Detection_Data
+
+
